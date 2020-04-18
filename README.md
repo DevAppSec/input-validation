@@ -6,7 +6,7 @@ This project is to ensure that an input is valid.
 
 For building and running the application you need:
 
-- JDK 11
+- JDK 13
 - Gradle
 
 ## Running the application locally
